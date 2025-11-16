@@ -1,8 +1,6 @@
-# Ex-02 InformationGathering
-Information Gathering Techiques
-
-# To perform information gathering techniques
-
+# Exp - 02: Information Gathering
+#### Name: SHYAM S
+#### Reg.No: 212223240156
 # AIM:
 
 To perform information gathering techniques using kali linux 
